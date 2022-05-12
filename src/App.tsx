@@ -35,7 +35,7 @@ const App = () => {
     <div className={styles.main}>
       <header>
         <div className={styles.headerContainer}>
-          ...
+          
         </div>
       </header>
       <div className={styles.container}>
