@@ -1,7 +1,5 @@
-![img](back-end/src/assets/giphy.png)
-## API verificar o IMC de uma pessoa.
-
-Esta API tem como finalidade retornar um JSON gifs e stickers do site [giphy](https://developers.giphy.com/), com esse dados e possivel criar um sistema de pesquisa de gifs ou stickers ou mesmo exibir diretamente os gifs na tela de acordo com o que o usuario desejar, este projeto foi dividido em Back-End e Front-End.
+![image](https://user-images.githubusercontent.com/57529085/169405286-7a7ee4fc-bb87-4f9f-a66c-20e619dd517a.png)
+## Site para verificar o IMC de uma pessoa.
 
 ## Instalação
 
@@ -15,8 +13,13 @@ Para rodar o projeto deve ter instalado o Node JS e o NPM e rodar os comandos ab
 
 ## Telas do Front-End
 
+![image](https://user-images.githubusercontent.com/57529085/169405286-7a7ee4fc-bb87-4f9f-a66c-20e619dd517a.png)
 
+![image](https://user-images.githubusercontent.com/57529085/169405507-24bb1c7a-c381-46cb-b133-b86bee8ea462.png)
 
+![image](https://user-images.githubusercontent.com/57529085/169405654-68c9f722-1256-453f-bc6e-7da6e79968ea.png)
+
+![image](https://user-images.githubusercontent.com/57529085/169405601-efa68090-92fa-4370-b6f5-ab9421c4f9fc.png)
 
 
 
