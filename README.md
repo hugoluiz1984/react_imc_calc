@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+![img](back-end/src/assets/giphy.png)
+## API verificar o IMC de uma pessoa.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta API tem como finalidade retornar um JSON gifs e stickers do site [giphy](https://developers.giphy.com/), com esse dados e possivel criar um sistema de pesquisa de gifs ou stickers ou mesmo exibir diretamente os gifs na tela de acordo com o que o usuario desejar, este projeto foi dividido em Back-End e Front-End.
 
-## Available Scripts
+## Instalação
 
-In the project directory, you can run:
+Para rodar o projeto deve ter instalado o Node JS e o NPM e rodar os comandos abaixo:
 
-### `npm start`
+```bash
+  cd front-end
+  npm install 
+  npm run start
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Telas do Front-End
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Stack utilizada
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Front-end:** React e TypeScript
 
-### `npm run eject`
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack, usando as tecnologias Node JS no Back-end e React no Fron-end, NextJs e estudando outras tecnologias interessantes e em alta no mercado.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🛠 Habilidades
+Javascript, HTML, CSS, Node JS, MySQL, Mongo DB, React, NextJS...
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔗 Links
+[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/hugoluiz1984)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-luiz-santos-aa7a957b/)
